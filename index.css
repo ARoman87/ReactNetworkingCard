@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(56, 56, 56);
+    color: white;
+    font-family: 'Inter', sans-serif;
+}
+
+.body {
+    text-align: center;
+    width: 317px;
+    margin: 20px auto;
+    background-color: rgb(34, 34, 34);
+    border-radius: 6px;
+}
+
+.myImage {
+    height: 317px;
+    width: 317px;
+    border-radius: 6px 6px 0 0;
+}
+
+.about {
+    text-align: left;
+    width: 247px;
+    margin: 16px auto;
+    background-color: rgb(34, 34, 34);
+}
+
+
+.about p {
+    font-size: 12px;
+    margin: 6px 0 0 0;
+    background-color: rgb(34, 34, 34);
+    line-height: 16px;
+    word-spacing: 4px;
+}
+
+.about h3 {
+    margin: 16px 0 0 0;
+    background-color: rgb(34, 34, 34);
+}
+
+.skills {
+    word-spacing: 8px !important;
+}
+
+
+.mainInfo h3 {
+    color: #ff8d3b;
+    margin: 6px;
+}
+.mainInfo a, h3, h1 {
+    background-color: rgb(34, 34, 34);
+}
+.mainInfo {
+    background-color: rgb(34, 34, 34);
+}
+
+.email button {
+    background-color: white;
+    color: black;
+    width: 246px;
+    height: 34px;
+    border-radius: 6px;
+    margin: 16px 0 16px 0;
+}
+
+.email img {
+    background-color: white;
+    margin-right: 10px;
+    height: 16px;
+    display: absolute;
+
+}
+.email span {
+    background-color: white;
+    color: black;
+    font-size: 16px;
+    top: 9px;
+}
+
+.email {
+    background-color: rgb(34, 34, 34);
+}
+
+.footer {
+    background-color: rgb(25, 25, 25);
+    height: 64px;
+    border-radius: 0 0 6px 6px;
+}
+
+.footer a {
+    background-color: rgb(25, 25, 25);
+    margin: 20px;  
+}
+
+.footer img {
+    margin-top: 18px;
+}
+
+
